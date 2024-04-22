@@ -1,0 +1,7 @@
+numpy
+pandas
+yfinance
+keras.models
+load_model
+streamlit
+matplotlib.pyplot
